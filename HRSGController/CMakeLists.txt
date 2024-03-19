@@ -1,0 +1,1 @@
+choreonoid_add_simple_controller(HRSGController HRSGController.cpp)
